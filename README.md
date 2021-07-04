@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:janduymonroe@gmail.com)](mailto:janduymonroe@gmail.com)
 
 
-## I am a Software Engineering Bachelor and Data Base Student
+## I am a Software Engineering and Data Base Student
 
 ### My focus is to solve business problems through Data Engineering, Cloud Data Engineer, Apache Spark and Databricks.
 
@@ -38,5 +38,13 @@ Here are some ideas to get you started:
 ## Certificações:
 
 > #### <code>Microsoft DP-900 - Azure Data Fundamentals </code>
+
+## Education
+
+ #### <code>Software Engineering at UNISA</code>
+ <img width = "80px" src="https://progress-bar.dev/20">
+  
+ #### <code>Data Base at FAM</code>
+<img width = "80px" src="https://progress-bar.dev/45">
 
 
