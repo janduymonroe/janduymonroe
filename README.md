@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://credentials.databricks.com/011875e8-b856-4592-adae-6b7d7fa9548e"> 
-<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/UDA.png"> </a>
+<img width = "180px" src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/34789337"> </a>
+<a href="https://credentials.databricks.com/6d4cb008-752f-4493-be8f-15640fd7357a#gs.58o9no"> 
+<img width = "180px" src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/34789682"> </a>
+
 <br>
 <br>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-data-fundamentals"> 
