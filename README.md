@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://credentials.databricks.com/011875e8-b856-4592-adae-6b7d7fa9548e"> 
+<img width = "180px" src = "https://cert-databricks.s3.us-east-2.amazonaws.com/UDA.png"> </a>
 <br>
 <br>
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-data-fundamentals"> 
