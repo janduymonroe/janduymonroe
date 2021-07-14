@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-data-fundamentals"> 
+<a href="https://www.credly.com/badges/8ed1140b-70ca-4709-9954-d4f4c10cf476/public_url"> 
 <img width = "180px" src = "https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"> </a> 
 
 
