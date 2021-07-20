@@ -6,8 +6,8 @@
 
 ## I am a Software Engineering and Data Base Student
 
-### My focus is to solve business problems through Data Engineering, Cloud Data Engineer, Apache Spark and Databricks.
-
+### My focus is to solve business problems through Data Engineering and Software Development.
+### Technology is my passion and it goes hand to hand with my desire to learn.
 
 ![janduy github status](https://github-readme-stats.vercel.app/api?username=janduymonroe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janduymonroe&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
