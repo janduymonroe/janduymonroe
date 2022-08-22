@@ -29,23 +29,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://credentials.databricks.com/011875e8-b856-4592-adae-6b7d7fa9548e"> 
-<img width = "180px" src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/34789337"> </a>
-<a href="https://credentials.databricks.com/6d4cb008-752f-4493-be8f-15640fd7357a#gs.58o9no"> 
-<img width = "180px" src = "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/34789682"> </a>
 
 <br>
 <br>
+<span>
 <a href="https://www.credly.com/badges/8ed1140b-70ca-4709-9954-d4f4c10cf476/public_url"> 
 <img width = "180px" src = "https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"> </a> 
-
-
+<a href="[https://www.credly.com/badges/8ed1140b-70ca-4709-9954-d4f4c10cf476/public_url](https://www.credly.com/badges/58699cf4-c573-4fed-8740-2c1a9a5975a6)"> 
+<img width = "180px" src = "https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"> </a
+ </span>
 <br>
 
 ## Certificações:
 
 > #### <code>Microsoft DP-900 - Azure Data Fundamentals </code>
-
+> #### <code>Microsoft AZ-900 - Azure Fundamentals </code>
+ 
 ## Education
 
  #### <code>Software Engineering at Ampli</code>
