@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
 ## Education
 
- #### <code>Software Engineering at UNISA</code>
+ #### <code>Software Engineering at Ampli</code>
  <img width = "80px" src="https://progress-bar.dev/25">
   
  #### <code>Data Base at FAM</code>
-<img width = "80px" src="https://progress-bar.dev/60">
+<img width = "80px" src="https://progress-bar.dev/80">
 
 
