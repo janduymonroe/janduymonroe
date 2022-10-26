@@ -6,7 +6,7 @@
 
 ## I am a Software Engineering and Data Base Student
 
-### My focus is to solve business problems through Data Engineering and Software Development.
+### My focus is to solve business problems through Software Development.
 ### Technology is my passion and it goes hand to hand with my desire to learn.
 
 ![janduy github status](https://github-readme-stats.vercel.app/api?username=janduymonroe)
