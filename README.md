@@ -9,12 +9,6 @@
 ### My focus is to solve business problems through Software Development.
 ### Technology is my passion and it goes hand to hand with my desire to learn.
 
-![janduy github status](https://github-readme-stats.vercel.app/api?username=janduymonroe)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janduymonroe&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 <!--
 **janduymonroe/janduymonroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
