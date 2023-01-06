@@ -47,10 +47,10 @@ Here are some ideas to get you started:
  
 ## Education
 
- #### <code>Software Engineering at Ampli</code>
+ #### <code>Software Engineering with focus on Quality and Test at Anhanguera</code>
  <img width = "80px" src="https://progress-bar.dev/25">
   
  #### <code>Data Base at FAM</code>
-<img width = "80px" src="https://progress-bar.dev/80">
+<img width = "80px" src="https://progress-bar.dev/100">
 
 
