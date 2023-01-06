@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 <span>
+<a href="https://www.credly.com/badges/712a6c31-4b93-4dee-830b-515bdfb6deaa/public_url"> 
+<img width = "180px" src = "https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"> </a> 
 <a href="https://www.credly.com/badges/8ed1140b-70ca-4709-9954-d4f4c10cf476/public_url"> 
 <img width = "180px" src = "https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"> </a> 
 <a href="[https://www.credly.com/badges/8ed1140b-70ca-4709-9954-d4f4c10cf476/public_url](https://www.credly.com/badges/58699cf4-c573-4fed-8740-2c1a9a5975a6)"> 
@@ -38,8 +40,9 @@ Here are some ideas to get you started:
 
 > #### <code>Microsoft DP-900 - Azure Data Fundamentals </code>
 > #### <code>Microsoft AZ-900 - Azure Fundamentals </code>
- 
-## Education
+> #### <code>Microsoft Az-204 - Azure Developer Associate </code>
+
+ ## Education
 
  #### <code>Software Engineering with focus on Quality and Test at Anhanguera</code>
  <img width = "80px" src="https://progress-bar.dev/25">
