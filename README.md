@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:janduymonroe@gmail.com)](mailto:janduymonroe@gmail.com)
 
 
-## I am a Software Engineering and Data Base Student
+## I am a Software Engineering
 
 ### My focus is to solve business problems through Software Development.
 ### Technology is my passion and it goes hand to hand with my desire to learn.
