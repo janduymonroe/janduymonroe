@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/8ed1140b-70ca-4709-9954-d4f4c10cf476/public_url"> 
 <img width = "180px" src = "https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"> </a> 
 <a href="[https://www.credly.com/badges/8ed1140b-70ca-4709-9954-d4f4c10cf476/public_url](https://www.credly.com/badges/58699cf4-c573-4fed-8740-2c1a9a5975a6)"> 
-<img width = "180px" src = "https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"> </a
- </span>
+<img width = "180px" src = "https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"> </a> 
+<a href="[https://www.credly.com/badges/ccae7087-28c6-43b3-89dc-e9db680d5464/public_url](https://www.credly.com/badges/ccae7087-28c6-43b3-89dc-e9db680d5464)"> 
+<img width = "180px" src = "https://images.credly.com/size/110x110/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png"> </a>
+</span>
 <br>
 
 ## Certificações:
