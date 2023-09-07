@@ -48,7 +48,7 @@ Here are some ideas to get you started:
  ## Education
 
  #### <code>Software Architecture at FIAP</code>
- <img width = "80px" src="https://progress-bar.dev/10">
+ <img width = "80px" src="https://progress-bar.dev/40">
   
  #### <code>Data Base at FAM</code>
 <img width = "80px" src="https://progress-bar.dev/100">
