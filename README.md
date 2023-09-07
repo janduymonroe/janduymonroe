@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 > #### <code>Microsoft DP-900 - Azure Data Fundamentals </code>
 > #### <code>Microsoft AZ-900 - Azure Fundamentals </code>
 > #### <code>Microsoft Az-204 - Azure Developer Associate </code>
+> #### <code>FOCP - FinOps Certified Practitioner </code>
 
  ## Education
 
