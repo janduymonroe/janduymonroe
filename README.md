@@ -52,8 +52,11 @@ Here are some ideas to get you started:
 
  ## Education
 
+  #### <code>Math at Estacio</code>
+ <img width = "80px" src="https://progress-bar.dev/15">
+
  #### <code>Software Architecture at FIAP</code>
- <img width = "80px" src="https://progress-bar.dev/40">
+ <img width = "80px" src="https://progress-bar.dev/100">
   
  #### <code>Data Base at FAM</code>
 <img width = "80px" src="https://progress-bar.dev/100">
