@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
  ## Education
 
-  #### <code>Math at Estacio</code>
+  #### <code>AI and ML at PUCMG</code>
  <img width = "80px" src="https://progress-bar.dev/15">
 
  #### <code>Software Architecture at FIAP</code>
